@@ -1,7 +1,7 @@
 6
 weapon			320 320hud1	0	0	80	20
 weapon_s		320 320hud1	0	20	80	20
-crosshair		320 crowbar 	0	128	128	128
+crosshair		320 crowbar 	0	0	128	128
 weapon			640 640hud1	0	0	170	45
 weapon_s		640 640hud4	0	0	170	45
-crosshair		640 crowbar 	0	128	128	128
+crosshair		640 crowbar 	0	0	128	128
